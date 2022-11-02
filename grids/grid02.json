@@ -1,0 +1,67 @@
+[
+    {"x": 1, "y": 1, "element": "fire"},
+    {"x": 2, "y": 1, "element": "earth"},
+    {"x": 3, "y": 1, "element": "earth"},
+    {"x": 4, "y": 1, "element": "mors"},
+
+    {"x": 1, "y": 2, "element": "lead"},
+    {"x": 2, "y": 2, "element": "earth"},
+    {"x": 3, "y": 2, "element": "salt"},
+    {"x": 4, "y": 2, "element": "salt"},
+
+    {"x": 1, "y": 3, "element": "iron"},
+    {"x": 2, "y": 3, "element": "fire"},
+    {"x": 3, "y": 3, "element": "earth"},
+    {"x": 4, "y": 3, "element": "mors"},
+    
+    {"x": 1, "y": 4, "element": "air"},
+    {"x": 2, "y": 4, "element": "quicksilver"},
+    {"x": 3, "y": 4, "element": "silver"},
+    {"x": 4, "y": 4, "element": "water"},
+    {"x": 5, "y": 4, "element": "vitae"},
+    
+    {"x": 3, "y": 5, "element": "air"},
+    {"x": 4, "y": 5, "element": "salt"},
+    {"x": 6, "y": 5, "element": "water"},
+    {"x": 7, "y": 5, "element": "air"},
+    {"x": 8, "y": 5, "element": "earth"},
+    {"x": 9, "y": 5, "element": "water"},
+    {"x": 10, "y": 5, "element": "quicksilver"},
+
+    {"x": 3, "y": 6, "element": "quicksilver"},
+    {"x": 4, "y": 6, "element": "water"},
+    {"x": 5, "y": 6, "element": "fire"},
+    {"x": 6, "y": 6, "element": "gold"},
+    {"x": 7, "y": 6, "element": "mors"},
+    {"x": 8, "y": 6, "element": "earth"},
+    {"x": 9, "y": 6, "element": "mors"},
+
+    {"x": 2, "y": 7, "element": "fire"},
+    {"x": 3, "y": 7, "element": "fire"},
+    {"x": 4, "y": 7, "element": "air"},
+    {"x": 5, "y": 7, "element": "water"},
+    {"x": 6, "y": 7, "element": "earth"},
+    {"x": 8, "y": 7, "element": "copper"},
+    {"x": 9, "y": 7, "element": "vitae"},
+
+    {"x": 7, "y": 8, "element": "earth"},
+    {"x": 8, "y": 8, "element": "water"},
+    {"x": 9, "y": 8, "element": "salt"},
+    {"x": 10, "y": 8, "element": "air"},
+    {"x": 11, "y": 8, "element": "vitae"},
+
+    {"x": 8, "y": 9, "element": "fire"},
+    {"x": 9, "y": 9, "element": "quicksilver"},
+    {"x": 10, "y": 9, "element": "tin"},
+    {"x": 11, "y": 9, "element": "air"},
+
+    {"x": 8, "y": 10, "element": "fire"},
+    {"x": 9, "y": 10, "element": "water"},
+    {"x": 10, "y": 10, "element": "vitae"},
+    {"x": 11, "y": 10, "element": "fire"},
+
+    {"x": 8, "y": 11, "element": "quicksilver"},
+    {"x": 9, "y": 11, "element": "water"},
+    {"x": 10, "y": 11, "element": "air"},
+    {"x": 11, "y": 11, "element": "air"}
+]
